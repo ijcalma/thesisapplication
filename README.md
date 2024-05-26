@@ -63,7 +63,7 @@ This is a Django-based web application for managing theses. Follow the steps bel
     ```sh
     py manage.py createsuperuser
     ```
-
+    and add a new user using the Django Admin.
     Follow the prompts to set up your new superuser account.
 
 ## Additional Information
