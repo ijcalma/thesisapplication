@@ -70,7 +70,7 @@ This is a Django-based web application for managing theses. Follow the steps bel
 
 - **Admin Interface:** You can access the Django admin interface at [http://127.0.0.1:8000/admin](http://127.0.0.1:8000/admin)
 - **Creating Theses:** After logging in, you can add, edit, and delete thesis entries as needed.
-- **Comments:** Users can view and add comments to each thesis.
+- **Comments:** Users can view and add comments to each thesis by clicking the thesis title.
 
 ## Troubleshooting
 
@@ -83,8 +83,3 @@ If you encounter issues, ensure that:
 Feel free to open an issue if you need further assistance.
 
 ---
-
-**Happy Coding!**
-```
-
-This Markdown version provides the same content as before but formatted entirely in Markdown syntax.
