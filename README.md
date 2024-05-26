@@ -1,6 +1,3 @@
-Absolutely! Here's the README.md file in Markdown format:
-
-```markdown
 # Thesis Application
 
 This is a Django-based web application for managing theses. Follow the steps below to set up and run the application locally on your machine.
